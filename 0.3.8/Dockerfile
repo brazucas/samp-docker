@@ -22,3 +22,4 @@ ENTRYPOINT ["/entrypoint.sh"]
 CMD ["samp", "start"]
 
 EXPOSE 7777/udp
+EXPOSE 7778/udp
